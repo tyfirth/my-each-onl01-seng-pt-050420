@@ -5,5 +5,5 @@ def my_each(array)
   while i < array.length do |thing|
 i = i + 1
   end
-  
+end
 end
